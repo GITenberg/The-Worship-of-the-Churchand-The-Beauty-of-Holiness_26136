@@ -1,0 +1,32 @@
+_repo: The-Worship-of-the-Churchand-The-Beauty-of-Holiness_26136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Regester, J. A. (Jacob Asbury)
+    alias: Regester, Jacob Asbury
+    birthdate: 1892
+    deathdate: 1914
+    gutenberg_agent_id: '31816'
+    url: http://www.gutenberg.org/2009/agents/31816
+description: ''
+gutenberg_issued: '2008-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Public worship'
+- !lcsh 'Church vestments'
+- !lcc 'BV'
+- !lcsh 'Church decoration and ornament'
+- !lcsh 'Christian art and symbolism'
+title: 'The Worship of the Church
+
+  and The Beauty of Holiness'
+url: http://www.gutenberg.org/ebooks/26136
