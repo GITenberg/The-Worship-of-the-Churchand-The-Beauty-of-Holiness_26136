@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31816'
     url: http://www.gutenberg.org/2009/agents/31816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26136#The-Worship-of-the-Churchand-The-Beauty-of-Holiness
 gutenberg_issued: '2008-07-27'
 gutenberg_type: Text
 identifiers:
